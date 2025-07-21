@@ -1,0 +1,23 @@
+EXPERIMENT - 5
+Siddhant arora
+24070123107
+ENTC B1
+
+#include<iostream>
+using namespace std;
+int main(){
+    int a,b,c;
+    cout<<"Enter three numbers: ";
+    cin>>a>>b>>c;
+    if(a>=b&&a>=c)
+        cout<<a<<" is the greatest number";
+    else if(b>=a&&b>=c)
+        cout<<b<<" is the greatest number";
+    else
+        cout<<c<<" is the greatest number";
+    return 0;
+}
+/*Output:-
+Enter three numbers: 3 4 5
+5 is the greatest number
+*/
