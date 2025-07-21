@@ -23,6 +23,9 @@ Determine whether a user-provided number is even or odd.
 
 **Sample Output:**
 
+Enter a number : 4
+
+even
 
 ---
 
@@ -38,6 +41,11 @@ Check whether the entered alphabet is a vowel or a consonant.
 
 **Sample Output:**
 
+enter a letter:P
+
+Consonant
+
+
 
 ---
 
@@ -51,6 +59,10 @@ Find the largest number among three user-input values.
 - Comparative logic
 
 **Sample Output:**
+
+Enter three numbers: 3 4 5
+
+5 is the greatest number
 
 
 ---
@@ -67,6 +79,21 @@ Let the user choose a programming language from a menu using a number, and displ
 **Sample Output:**
 
 
+1.c program
+
+2.python
+
+3.C++
+
+4.Java
+
+5.HTML
+
+4
+
+Java
+
+
 ---
 
 ### 5. Simple Calculator
@@ -80,6 +107,14 @@ Perform basic arithmetic operations (`+`, `-`, `*`, `/`) between two numbers bas
 - Input validation (division by zero)
 
 **Sample Output:**
+
+Enter first number: 10
+
+Enter operator (+, -, *, /): +
+
+Enter second number: 25
+
+Result: 35
 
 ## Conclusion
 
