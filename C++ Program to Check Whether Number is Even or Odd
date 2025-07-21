@@ -1,0 +1,24 @@
+EXPERIMENT - 5
+Siddhant arora
+24070123107
+ENTC B1
+
+#include <iostream>
+using namespace std;
+int b;
+int main() {
+    cout <<"Enter a number : ";
+    cin >> b;
+    if (b % 2 ==0){
+        cout<<"even";
+    }
+    else {
+        cout << "odd";
+    }
+return 0;
+}
+
+/*Output:-
+Enter a number : 4
+even
+*/
