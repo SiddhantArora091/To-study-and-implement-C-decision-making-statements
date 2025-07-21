@@ -1,0 +1,40 @@
+EXPERIMENT - 5
+Siddhant arora
+24070123107
+ENTC B1
+
+#include <iostream>
+using namespace std;
+int main() {
+    int choice ;
+    cout<<"1.c program"<<endl<<"2.python"<<endl<<"3.C++"<<endl<<"4.Java"<<endl<<"5.HTML"<<endl;
+    cin>>choice;
+    switch(choice) {
+        case 1:
+        cout<<"c program";
+        break;
+        case 2:
+        cout<<"python";
+        break;
+        case 3:
+        cout<<"C++";
+        break;
+        case 4:
+        cout<<"Java";
+        break;
+        case 5:
+        cout<<"HTML";
+        break;
+        default:
+        cout<<"enter a number between 1 and 5.";
+        break;
+    }}
+/*Output:-
+1.c program
+2.python
+3.C++
+4.Java
+5.HTML
+4
+Java
+*/
